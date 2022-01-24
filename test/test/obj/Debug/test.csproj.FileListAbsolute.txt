@@ -1,0 +1,11 @@
+G:\devops\test\test\test\bin\Debug\test.exe.config
+G:\devops\test\test\test\bin\Debug\test.exe
+G:\devops\test\test\test\bin\Debug\test.pdb
+G:\devops\test\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+G:\devops\test\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+G:\devops\test\test\test\obj\Debug\test.Form1.resources
+G:\devops\test\test\test\obj\Debug\test.Properties.Resources.resources
+G:\devops\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+G:\devops\test\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\devops\test\test\test\obj\Debug\test.exe
+G:\devops\test\test\test\obj\Debug\test.pdb
